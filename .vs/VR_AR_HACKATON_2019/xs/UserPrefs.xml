@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4A801E20-6A9A-925B-A309-484AC12FEFBA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HandGrabbing.cs">
+    <Files>
+      <File FileName="Assets/HandGabbing.cs" Line="16" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VR_AR_HACKATON_2019" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VR_AR_HACKATON_2019" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ceaefa3-9542-4a74-b815-2e3f1dc042f4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
