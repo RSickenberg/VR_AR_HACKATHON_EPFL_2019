@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.virtualrealitytoolkit.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Romain Sickenberg\\source\\repos\\RSickenberg\\VR_AR_HACKATHON_EPFL_2019_V2\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Virtual Reality Toolkit [Testing]"
+        }
+      }
+    }
+  ]
+}
