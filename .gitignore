@@ -1,0 +1,7 @@
+TEMP/*
+.vs/*
+Library/ShaderCache/*
+*.log
+*.cache
+Build/*
+Temp/UnityLockfile
