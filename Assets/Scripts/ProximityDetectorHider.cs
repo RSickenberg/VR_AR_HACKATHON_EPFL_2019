@@ -10,7 +10,7 @@ public class ProximityDetectorHider : MonoBehaviour
     private Canvas objRenderer;
     [SerializeField] private Transform mainCamTransform; // Stores the FPS camera transform
 
-    private readonly float distance_toggle = 3;
+    private readonly float distance_toggle = 1.5f;
     private bool isHidden = false;
 
     private float updateEvery = 1;
@@ -36,7 +36,6 @@ public class ProximityDetectorHider : MonoBehaviour
     private void Checker() 
     {
         float distance = Vector3.Distance(mainCamTransform.position, transform.position);
-        Debug.Log(distance);
 
         if (distance < distance_toggle)
         {
