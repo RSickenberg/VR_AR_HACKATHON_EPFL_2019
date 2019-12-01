@@ -16,6 +16,11 @@ TagManager:
   - SnapCylinder
   - SnapSaucer
   - Head
+  - leftController
+  - gun
+  - player
+  - bullet
+  - rightController
   layers:
   - Default
   - TransparentFX

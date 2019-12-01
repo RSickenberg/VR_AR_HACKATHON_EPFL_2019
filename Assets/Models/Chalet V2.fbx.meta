@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: a594a0e351da2ad4ca8a76ffc423908d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Carrot_03
+    100002: //RootNode
+    100004: chestnut
+    100006: chestnut.001
+    100008: iphone
+    100010: Logs.010
+    100012: Logs.015
+    100014: Logs.034
+    100016: Logs.035
+    100018: Logs.040
+    100020: Plane.001
+    100022: Plane.002
+    100024: presentoir
+    100026: presentoir.001
+    100028: proxy
+    100030: skilift
+    100032: Sphere
+    100034: Sphere.001
+    100036: Sphere.002
+    400000: Carrot_03
+    400002: //RootNode
+    400004: chestnut
+    400006: chestnut.001
+    400008: iphone
+    400010: Logs.010
+    400012: Logs.015
+    400014: Logs.034
+    400016: Logs.035
+    400018: Logs.040
+    400020: Plane.001
+    400022: Plane.002
+    400024: presentoir
+    400026: presentoir.001
+    400028: proxy
+    400030: skilift
+    400032: Sphere
+    400034: Sphere.001
+    400036: Sphere.002
+    2100000: wood_planks03
+    2100002: wood_planks02
+    2100004: 13110_fireplace_base
+    2100006: Snow04
+    2100008: model
+    2100010: Carrot.001
+    2100012: Corrugated_metal_panel_01
+    2100014: default
+    2100016: Mat.6
+    2100018: Mat
+    2100020: schwarz glass
+    2100022: Metallic
+    2100024: Mat.2
+    2100026: glass
+    2100028: onyx01
+    2300000: Carrot_03
+    2300002: chestnut
+    2300004: chestnut.001
+    2300006: iphone
+    2300008: Logs.010
+    2300010: Logs.015
+    2300012: Logs.034
+    2300014: Logs.035
+    2300016: Logs.040
+    2300018: Plane.001
+    2300020: Plane.002
+    2300022: presentoir
+    2300024: presentoir.001
+    2300026: proxy
+    2300028: skilift
+    2300030: Sphere
+    2300032: Sphere.001
+    2300034: Sphere.002
+    3300000: Carrot_03
+    3300002: chestnut
+    3300004: chestnut.001
+    3300006: iphone
+    3300008: Logs.010
+    3300010: Logs.015
+    3300012: Logs.034
+    3300014: Logs.035
+    3300016: Logs.040
+    3300018: Plane.001
+    3300020: Plane.002
+    3300022: presentoir
+    3300024: presentoir.001
+    3300026: proxy
+    3300028: skilift
+    3300030: Sphere
+    3300032: Sphere.001
+    3300034: Sphere.002
+    4300000: Plane.001
+    4300002: Plane.002
+    4300004: Logs.010
+    4300006: Logs.034
+    4300008: Logs.015
+    4300010: Logs.040
+    4300012: proxy
+    4300014: Sphere
+    4300016: Sphere.001
+    4300018: Sphere.002
+    4300020: chestnut
+    4300022: Carrot_03
+    4300024: skilift
+    4300026: iphone
+    4300028: presentoir
+    4300030: presentoir.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
