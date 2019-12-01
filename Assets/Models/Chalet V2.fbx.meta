@@ -108,7 +108,12 @@ ModelImporter:
     4300026: iphone
     4300028: presentoir
     4300030: presentoir.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onyx01
+    second: {fileID: 2100000, guid: f95e3baa44f855a41bf0b8b9124e7eb2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
